@@ -1,0 +1,125 @@
+/* input {
+    width: 500px;
+    padding: 20px;
+    font-family: sans-serif;
+    background-color: beige;
+    border-radius: 20px;
+}
+
+.form {
+    display: flex;
+    align-items: center;
+    gap: 30px;
+    flex-wrap: wrap;
+}
+
+.button {
+    border: none;
+    background: none;
+    background-color: aquamarine;
+    color: black;
+    font-family: sans-serif;
+    border-radius: 5px;
+    padding: 25px;
+} */
+
+.input {
+    width: 500px;
+    padding: 20px;
+    font-family: sans-serif;
+    background-color: beige;
+    border-radius: 20px;
+}
+
+.form {
+    background-color: bisque;
+    width: 700px;
+    padding: 80px;
+    height: auto;
+    border-radius: 20px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.box {
+    margin-top: 50px;
+    width: 300px;
+    background-color: black;
+    height: auto;
+    color: white;
+    padding: 50px;
+    border-radius: 20px;
+    margin-bottom: 20px;
+}
+
+.btn {
+    border: none;
+    background: none;
+    background-color: aquamarine;
+    color: black;
+    font-family: sans-serif;
+    border-radius: 5px;
+    padding: 25px;
+}
+
+.rend {
+    border: none;
+    background: none;
+    background-color: black;
+    color: white;
+    font-family: sans-serif;
+    border-radius: 5px;
+    padding: 25px;
+}
+
+.per {
+    border: none;
+    background: none;
+    background-color: aquamarine;
+    color: black;
+    font-family: sans-serif;
+    border-radius: 5px;
+    padding: 25px;
+}
+
+.rend_text {
+    font-family: sans-serif;
+    font-size: 20px;
+}
+
+.active {
+    margin-top: 50px;
+    width: 300px;
+    background-color: black;
+    height: auto;
+    color: white;
+    padding: 50px;
+    border-radius: 20px;
+    margin-bottom: 20px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.active_text {
+    font-size: 20px;
+    font-family: sans-serif;
+    text-align: center;
+    margin-bottom: 50px;
+}
+
+.input {
+    width: 500px;
+    padding: 20px;
+    font-family: sans-serif;
+    background-color: beige;
+    border-radius: 20px;
+}
+
+.set {
+    background-color: white;
+    padding: 50px;
+    text-align: center;
+    border-radius: 50%;
+    width: 100px;
+    color: black;
+}
